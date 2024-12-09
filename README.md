@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/0316563d-b0af-410a-a8d5-41c9457aecc6
 
 # KeeperApp
-Hi there! 👋 I am Muhammad Kashif Abdullah a full stack web Developer developer. This is the note taking app called "keeper" like "Google keep", which will help you to take notes of any kind like class notes, keep your social media password on one place and any thing you want. 
+Hi there! 👋 I am Muhammad Kashif Abdullah a full stack web developer. This is the note taking app called "keeper" like "Google keep", which will help you to take notes of any kind like class notes, keep your social media password on one place and any thing you want. 
 
 
 ## Technologies Used:
